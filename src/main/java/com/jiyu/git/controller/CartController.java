@@ -9,6 +9,7 @@ public class CartController {
 		Map<String, String> map = new ConcurrentHashMap<String, String>(10);
 		System.out.println("hello");
 		String name = "lousanniu";
+		int age = 12;
 		System.out.println("hello "+name);
 	}
 }
