@@ -11,6 +11,7 @@ public class CartController {
 		String name = "lousanniu";
 		int age = 22;
 		int age2 = 12;
+		double random = Math.random();
 		System.out.println("hello "+name);
 	}
 }
