@@ -10,6 +10,7 @@ public class CartController {
 		System.out.println("hello");
 		String name = "lousanniu";
 		int age = 22;
+		int age2 = 12;
 		System.out.println("hello "+name);
 	}
 }
