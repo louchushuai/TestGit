@@ -14,6 +14,7 @@ public class CartController {
 		double random = Math.random();		
 		Thread thread = new Thread();
 		thread.run();
+		System.out.println("say i am golden");
 		System.out.println("hello "+name);
 	}
 }
